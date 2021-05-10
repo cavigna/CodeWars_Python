@@ -10,6 +10,7 @@ def persistence(n,counter=0):
 
 
 print(persistence(39))
+print(bin(6))
 
 
 
